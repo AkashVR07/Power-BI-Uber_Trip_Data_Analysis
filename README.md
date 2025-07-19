@@ -6,7 +6,7 @@ To analyze Uber trip data using Power BI to visualize patterns in rides, identif
 
 ## Dataset Used
 
-- <a href="https://github.com/AkashVR07/Tableau-Electric-Vehicle-Sales-Analysis/blob/main/EV_Population_Data.zip">Uber Trip Details</a>
+- <a href="[https://github.com/AkashVR07/Tableau-Electric-Vehicle-Sales-Analysis/blob/main/EV_Population_Data.zip](https://github.com/AkashVR07/Power-BI-Uber_Trip_Data_Analysis/blob/main/Uber%20Trip%20Analysis.pbix)">Uber Trip Details</a>
 
 ## Questions (KPIs)
 
