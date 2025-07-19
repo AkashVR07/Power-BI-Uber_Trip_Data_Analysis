@@ -41,7 +41,8 @@ This project involves the exploratory analysis of Uber trip data focused on trip
 <p>
 <img width="1560" height="776" alt="Details Dashboard" src="https://github.com/user-attachments/assets/50efaef1-479d-4b2a-9410-bcc1b96b67c2" />
 </p>
-
+<p>
+</p>
 <p><img width="1560" height="776" alt="Overview Dashboard" src="https://github.com/user-attachments/assets/c3db7966-367d-4a36-a948-5d921e9cb19b" />
 </p>
 
